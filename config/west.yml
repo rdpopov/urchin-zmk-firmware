@@ -12,7 +12,6 @@ manifest:
       # nice-view-gem
     # - name: m165437
     #   url-base: https://github.com/M165437
-
     - name: badjeff
       url-base: https://github.com/badjeff
   projects:
