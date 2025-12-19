@@ -12,7 +12,7 @@ manifest:
       # nice-view-gem
     # - name: m165437
     #   url-base: https://github.com/M165437
-      # analog-stick
+
     - name: badjeff
       url-base: https://github.com/badjeff
   projects:
@@ -23,10 +23,11 @@ manifest:
     - name: urchin-zmk-module
       remote: duckyb
       revision: main
-    # - name: nice-view-gem
-    #   remote: m165437
-    #   revision: main
+    - name: nice-view-gem
+      remote: m165437
+      revision: main
     - name: zmk-analog-input-driver
       remote: badjeff
-      revision: main
-      path: config
+      revision: main  
+  self:
+    path: config
