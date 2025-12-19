@@ -13,8 +13,8 @@ manifest:
     # - name: m165437
     #   url-base: https://github.com/M165437
       # analog-stick
-    - name: strick
-      url-base: https://github.com/M165437
+    - name: badjeff
+      url-base: https://github.com/badjeff
   projects:
     - name: zmk
       remote: zmkfirmware
